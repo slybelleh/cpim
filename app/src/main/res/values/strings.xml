@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CPMIS(Health)</string>
+
+    <string-array name="type_admin">
+        <item>Choose the type of User</item>
+        <item>Sub-County Children Officer</item>
+        <item>Area Chief</item>
+        <item>Ass-Chief</item>
+        <item>Village Elder</item>
+    </string-array>
+
+    <string-array name="type_state">
+        <item>Choose the type of Institution or Statutory</item>
+        <item>FB0(Faith Based Organisation)</item>
+        <item>CBO</item>
+        <item>NGO(Non-Governmental Organisation)</item>
+        <item>Private Institution</item>
+        <item>Statutory or Charitable Childrens Institution</item>
+    </string-array>
+    <string name="title_activity_dash">dash</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
